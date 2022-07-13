@@ -1,0 +1,7 @@
+{
+    "sketch": "Humicon.ino",
+    "port": "COM4",
+    "board": "esp32:esp32:m5stick-c",
+    "configuration": "PartitionScheme=default,UploadSpeed=1500000,DebugLevel=none",
+    "output": "../build"
+}
